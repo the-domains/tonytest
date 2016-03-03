@@ -1,0 +1,28 @@
+name: TonyTest
+favicon: null
+layout_spectrum: 0.48614270566031337
+typography_spectrum: 0.23216519760899246
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.44046626379713416
+  lightness: 0.5940577297005802
+  saturation: 0.2930429186671972
+  rhythmicContrast: 0.6989131129812449
+purpose: []
